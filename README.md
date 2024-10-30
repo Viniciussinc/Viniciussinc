@@ -17,8 +17,7 @@ Linguagens e Ferramentas:
 
 
 
-Nome do Projeto: Breve descrição do que o projeto faz e as tecnologias envolvidas.
-Outro Projeto: Descrição e funcionalidades principais.
+
 📫 Vamos Conversar!
 Estou sempre aberto a trocar ideias sobre programação e desenvolvimento. Fique à vontade para entrar em contato comigo:
 
