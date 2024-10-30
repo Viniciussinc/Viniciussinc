@@ -11,7 +11,8 @@ Linguagens e Ferramentas:
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </p>
 📌 Projetos em Destaque
-Aqui você pode destacar os principais projetos com links para os repositórios e pequenas descrições. Por exemplo:
+Esse projeto é o primeiro PI (Projeto Interdisciplinar) do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) da Faculdade de Tecnologia Fatec Franca Dr. Thomaz Novelino. Seu intuito é unir os conhecimentos adquiridos nas principais disciplinas do primeiro semestre, Engenharia de Software I, Design Digital e Desenvolvimento Web I, criando um site de vendas de uma hamburgueria fictícia. Atualmente o site foi desenvolvido com as linguagens HTML5, CSS3 e JavaScript, sendo somente a parte visual. Posteriormente, no segundo semestre, será implementado o banco de dados, tornando-o funcional.
+<a href="[http://](https://github.com/Viniciussinc/Pi_1_Semestre)">Link</a>
 
 Nome do Projeto: Breve descrição do que o projeto faz e as tecnologias envolvidas.
 Outro Projeto: Descrição e funcionalidades principais.
