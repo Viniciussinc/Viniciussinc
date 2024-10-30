@@ -1,4 +1,4 @@
-Vinicius de Araujo 👋
+<h1>Vinicius de Araujo 👋</h1> <br>
 Desenvolvedor em início de carreira | Entusiasta de Engenharia de Software
 Olá! Sou o Vinicius, apaixonado por tecnologia e pelo desenvolvimento de sistemas de qualidade. Estou iniciando minha jornada na área de TI, com uma base sólida em programação e constante aprendizado de práticas avançadas de Engenharia de Software.
 
