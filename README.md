@@ -10,6 +10,8 @@ Olá! Sou o Vinicius, apaixonado por tecnologia e pelo desenvolvimento de sistem
 Linguagens e Ferramentas:
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </p>
+**Tecnologias que uso no dia a dia:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff)
 ### 📌 Projetos em Destaque
 
