@@ -37,8 +37,8 @@ Olá! Meu nome é Vinicius, sou apaixonado por tecnologia e pelo desenvolvimento
   Primeiro Projeto Interdisciplinar do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) na Fatec Franca. O objetivo é unir conhecimentos das disciplinas de Engenharia de Software I, Design Digital e Desenvolvimento Web I, criando um site de vendas para uma hamburgueria fictícia.  
   - Tecnologias usadas: HTML5, CSS3 e JavaScript (front-end visual).  
   - Futuramente: implementação de banco de dados e funcionalidades completas.
-
----
+- [**GameReview**](https://github.com/FatecFranca/DSM-P3-G10-2025-1):  
+--- Terceiro Projeto Interdisciplinar do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) na Fatec Franca
 
 ## 📫 Vamos Conversar!
 
