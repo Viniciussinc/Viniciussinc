@@ -39,6 +39,8 @@ Olá! Meu nome é Vinicius, sou apaixonado por tecnologia e pelo desenvolvimento
   - Futuramente: implementação de banco de dados e funcionalidades completas.
 - [**GameReview**](https://github.com/FatecFranca/DSM-P3-G10-2025-1):  
 --- Terceiro Projeto Interdisciplinar do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) na Fatec Franca
+- [**ClickServe**](https://github.com/FatecFranca/DSM-G04-PI4-2025-2):  
+--- Quarto Interdisciplinar do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) na Fatec Franca
 
 ## 📫 Vamos Conversar!
 
